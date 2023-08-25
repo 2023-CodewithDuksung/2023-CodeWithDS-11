@@ -1,0 +1,77 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 0 20px;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.logo span {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.menu li {
+  font-size: 1rem;
+  cursor: pointer;
+  color: #666666;
+  transition: color 0.3s;
+}
+.menu a {
+  color: #666666;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.menu-login a:hover {
+  color: white !important;
+}
+
+.menu a:hover {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.active-menu {
+  font-weight: bolder;
+  color: black;
+}
+.menu-login {
+  color: rgb(255, 255, 255);
+  background: #981b45;
+  padding: 10px 20px;
+  border-radius: 3px;
+}
+#duksung {
+  color: black;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 20px;
+  transition: color 0.3s text-decoration 0.3s;
+}
+#qrcode {
+  margin-top: 5px;
+}

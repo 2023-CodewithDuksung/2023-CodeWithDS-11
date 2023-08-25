@@ -1,0 +1,100 @@
+.place-title1 {
+  margin-top: 180px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: -10px;
+  color: rgb(78, 77, 77);
+}
+.place-title {
+  font-size: 15px;
+  margin-top: 20px;
+  color: rgb(151, 151, 151);
+}
+.place-num {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 30px;
+  color: rgb(78, 78, 78);
+  margin-bottom: 200px;
+}
+
+.section-title1 {
+  font-size: 30px;
+  margin-bottom: -10px;
+  margin-top: 40px;
+  color: rgb(78, 77, 77);
+  font-weight: bold;
+}
+.section-title {
+  margin-top: 180px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: -10px;
+  color: rgb(78, 77, 77);
+}
+.sub-title {
+  font-size: 15px;
+  margin-top: 20px;
+  color: rgb(151, 151, 151);
+}
+.basic-info {
+  text-align: center;
+}
+.info-table {
+  border-collapse: collapse;
+  width: 60%;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info-table th,
+.info-table td {
+  border: 1px solid #2d2d2d76;
+  padding: 8px;
+  text-align: center;
+}
+
+.info-table th {
+  background-color: #d5d5d5da;
+}
+
+.info-table th:first-child,
+.info-table td:first-child {
+  width: 30%;
+}
+
+.info-table th:last-child,
+.info-table td:last-child {
+  width: 70%;
+}
+.rule-list {
+  display: flex;
+  justify-content: center;
+}
+.rule {
+  margin: 30px;
+}
+.rule-number {
+  font-weight: bold;
+  font-size: 20px;
+}
+.rule-description {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 4px;
+  color: rgb(78, 78, 78);
+}
+.rule-content {
+  font-size: 15px;
+  color: rgb(112, 110, 110);
+  border-bottom: 2px solid rgb(240, 238, 238);
+  padding-bottom: 20px;
+}
+.school-num {
+  color: rgb(78, 77, 77);
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 100px;
+  margin-top: 40px;
+}

@@ -1,0 +1,108 @@
+.signup-container {
+  display: flex;
+  align-items: center;
+}
+
+.signup-left {
+  flex: 1;
+  padding-left: 20px;
+}
+.signup-left img {
+  max-width: 100%;
+  max-height: 90vh;
+  margin: 0 auto;
+  display: block;
+}
+.signup-right {
+  flex: 1;
+  padding-right: 30px;
+}
+.signup-form {
+  text-align: left;
+}
+#input {
+  background: rgb(234, 232, 232);
+  height: 40px;
+  margin-bottom: 20px;
+  color: rgb(143, 143, 143);
+  padding: 10px 20px;
+}
+.code-send {
+  background-color: #981b45;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-left: 10px;
+}
+.email-confirm {
+  background-color: #981b45;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-left: 10px;
+}
+.signup-button {
+  width: 340px;
+  height: 60px;
+  background-color: #981b45;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 7px 100px;
+  border-radius: 8px;
+  margin-top: 30px;
+}
+.login-message {
+  margin-top: 20px;
+}
+-se .login-message a {
+  color: #981b45;
+}
+
+.smalltext {
+  font-size: 20px;
+}
+
+.signbox {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.custom-input-long {
+  width: 600px;
+  height: 65px;
+  border: none;
+  border-radius: 8px;
+  background-color: #eff0f2;
+  padding: 10px;
+}
+
+.email-input {
+  display: flex;
+  align-items: flex-end;
+}
+
+.email-form {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.send-button {
+  display: flex;
+  align-items: center;
+}
+
+.custom-input-short {
+  width: 448px;
+  height: 65px;
+  border: none;
+  border-radius: 8px;
+  background-color: #eff0f2;
+  padding: 10px;
+  color: white;
+}

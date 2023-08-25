@@ -1,0 +1,49 @@
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 96px auto;
+  margin-left: 144px;
+  margin-right: 150px;
+  width: 500px;
+  height: 277px;
+}
+
+.lets-move {
+  font-size: 76px;
+  font-weight: bold;
+  color: #666666;
+  margin-bottom: 10px;
+}
+
+.stay-healthy {
+  font-size: 76px;
+  font-weight: bold;
+  color: #981b45;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
+.hope {
+  font-size: 24px;
+  color: #858181;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 45px;
+  margin-bottom: 20px;
+}
+
+.sign-in-button {
+  background-color: #981b45;
+  color: white;
+  padding: 15px 35px;
+  margin-top: 20px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 24px;
+  transition: background-color 0.3s;
+}
+
+.sign-in-button:hover {
+  background-color: #981b45;
+}

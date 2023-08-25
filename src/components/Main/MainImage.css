@@ -1,0 +1,9 @@
+.main-image {
+  flex: 1;
+  background-image: url("/public/img/images.jpeg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 96px;
+  margin-right: 144px;
+}

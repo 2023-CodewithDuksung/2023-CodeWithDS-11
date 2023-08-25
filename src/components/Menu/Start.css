@@ -1,0 +1,17 @@
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#btn-start,
+#btn-end {
+  margin: 40px;
+  font-size: 50px;
+  border-radius: 4px;
+  background-color: #981b45;
+  color: white;
+  padding: 20px;
+  border: none;
+}

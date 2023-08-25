@@ -1,0 +1,37 @@
+.title {
+  margin-top: 40px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  color: rgb(78, 77, 77);
+}
+
+.Lank {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lanking-description {
+  margin-top: 100px;
+}
+
+.lankbox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  padding: 0 20px;
+}
+
+.ranking {
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+}
+
+.ranking1 {
+  font-size: 30px;
+  font-weight: bold;
+  width: 100px;
+}

@@ -1,0 +1,88 @@
+.signup-container {
+  display: flex;
+  align-items: center;
+}
+
+.signup-left {
+  flex: 1;
+  padding-left: 20px;
+}
+.signup-left img {
+  /* max-width: 100%;
+    max-height: 90vh; */
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+.signup-right {
+  flex: 1;
+  padding-right: 30px;
+}
+.signup-form {
+  text-align: left;
+}
+#input-email {
+  background: rgb(234, 232, 232);
+  width: 440px;
+  height: 40px;
+  margin-bottom: 20px;
+  color: rgb(143, 143, 143);
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+#input-email2 {
+  background: rgb(234, 232, 232);
+  height: 40px;
+  width: 440px;
+  margin-bottom: 20px;
+  color: rgb(143, 143, 143);
+  padding: 10px 20px;
+  margin-right: 5px;
+}
+#input {
+  background: rgb(234, 232, 232);
+  height: 40px;
+  margin-bottom: 20px;
+  color: rgb(143, 143, 143);
+  padding: 10px 20px;
+}
+
+.code-send {
+  background-color: #981b45;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  padding: 5px 15px;
+}
+
+.email-confirm {
+  background-color: #981b45;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-left: 15px;
+  margin-bottom: 20px;
+  padding: 5px 20px;
+}
+.signup-button {
+  background-color: #981b45;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 7px 100px;
+  border-radius: 3px;
+  margin-top: 30px;
+}
+.login-message {
+  margin-top: 20px;
+}
+.login-message a {
+  color: #981b45;
+}
