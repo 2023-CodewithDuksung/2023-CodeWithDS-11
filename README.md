@@ -2,15 +2,9 @@
 2023 CodeWithDuksung 11팀
 ## 교내 라온센터 활용을 위한 웹페이지입니다.
 ## 사용스택
-# Design
-Figma
-
-# Frontend
-React, JS, 
-
-# Backend
-
-#
+|Design|Frontend|Backend|DB|ETC|
+|:---:|:---:|:---:|:---:|
+|Figma|React, JS|Spring MVC, Spring JPA, Google SMTP| MySQL | YOLOv5
 
 ![최종_page-0004](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/18ed2dce-ba93-4451-8e8e-a1ecea46f796)
 ![최종_page-0005](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/75777d5f-36a3-4f29-9da5-a7db4673e4d2)
