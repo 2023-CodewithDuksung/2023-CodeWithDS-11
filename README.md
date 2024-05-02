@@ -26,7 +26,7 @@
 ### 👩‍💻 사용스택
 | Design | Frontend | Backend | DB | ETC |
 |:---:|:---:|:---:|:---:|:---:|
-| Figma | React, JS | ![springMVC](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/3ef6c716-c476-43a0-bcdd-bf0baaf88b71) ![smtp](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/5376e601-36f5-4e11-81b8-3f2ff8a2cbab)SMTP ![springJPA](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/8b05a10c-dfe4-4d4f-8705-991dd293b5b4) SpringJPA| ![mysql](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/b182a280-9333-4726-b982-98d480e33592)| ![yolo](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/e7d87061-8db1-4b8c-8ba2-97f5ce2a4d83) |
+| Figma | React, JS | ![springMVC](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/3ef6c716-c476-43a0-bcdd-bf0baaf88b71) ![smtp](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/5376e601-36f5-4e11-81b8-3f2ff8a2cbab)![springJPA](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/8b05a10c-dfe4-4d4f-8705-991dd293b5b4)| ![mysql](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/b182a280-9333-4726-b982-98d480e33592)| ![yolo](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/e7d87061-8db1-4b8c-8ba2-97f5ce2a4d83) |
 
 
 ### 👩‍💻 주요기능
