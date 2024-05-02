@@ -36,9 +36,10 @@
 2. 라온센터 운동기구의 사용현황 표시
 3. 라온센터 운동기구 사용량 측정 및 나의 랭킹확인 기능
 
-### service flow
-![최종_page-0009](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/c9561e92-b705-4a3f-b0b2-de8cff8b7319)
+### software flow
+<img src="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/c9561e92-b705-4a3f-b0b2-de8cff8b7319" width="500">
 
-![최종_page-0016](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/63e11911-5d8a-428e-b993-f71788e51e8c)
-![최종_page-0017](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/34f89104-0d82-48b5-8640-61737e6fd5b9)
-![최종_page-0018](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/e6a2a9a0-aa8d-4c2a-b630-88aab6514e28)
+### preview
+
+|<img src="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/63e11911-5d8a-428e-b993-f71788e51e8c.png" width="500">| <img src="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/63e11911-5d8a-428e-b993-f71788e51e8c.png" width="500"> | <img src="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/63e11911-5d8a-428e-b993-f71788e51e8c.png](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/e6a2a9a0-aa8d-4c2a-b630-88aab6514e28.png" width="500"> |
+|--|--|--|
