@@ -4,37 +4,33 @@
 ### 🖥 프로젝트 소개
 덕성여자대학교 라온센터 활용장려를 위한 웹페이지입니다.
 
-### 🕰 개발기간
+### ⏰ 개발기간
+` 2023.08.17 ` → ` 2023.08.25 `
 
+### 👩‍💻 developer
 
-### 👭 멤버구성
-- 고민정 : Yolov5 fine tuning 
-- 고서영 : Yolov5 fine tuning 
-- 김가현 : 기획 & Design 
-- 박해인 : Backend 
-- 임지수 : Frontend 
-- 천윤서 : Frontend 
+| [고민정](https://github.com/minjko ) | [고서영](https://github.com/LeaKoh ) | [김가현]( ) | [박해인]( https://github.com/femmefatalehaein ) | [임지수]( https://github.com/jisooooooooooo ) | [천윤서](https://github.com/yunseochnn ) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ML | ML | 기획 | Backend | Frontend | Frontend |
+
 
 ### ⚙️ 개발환경
 - ``` java 20.0.1 ```
 - IDE : ``` STS4 ```
-- Framework : ```Spring 3.1.3 ```
-- ORM : ```MyBatis```
-- Model : ``` Yolov5 ```
+  
+### 🔧 사용스택
+<img src="https://img.shields.io/badge/JAVA-orange?logo=java"> <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white"> </br>
+<img src="https://img.shields.io/badge/springboot-green?logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white"> </br>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 
-
-### 👩‍💻 사용스택
-| Design | Frontend | Backend | DB | ETC |
-|:---:|:---:|:---:|:---:|:---:|
-| Figma | React, JS | ![springMVC](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/3ef6c716-c476-43a0-bcdd-bf0baaf88b71) ![smtp](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/5376e601-36f5-4e11-81b8-3f2ff8a2cbab)![springJPA](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/8b05a10c-dfe4-4d4f-8705-991dd293b5b4)| ![mysql](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/b182a280-9333-4726-b982-98d480e33592)| ![yolo](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/e7d87061-8db1-4b8c-8ba2-97f5ce2a4d83) |
-
-
-### 👩‍💻 주요기능
-
-![최종_page-0007](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/039178b0-bb91-498f-91c2-86c9e20abe16)
-1. 라온센터에 대한 기본적인 정보 확인
-2. 라온센터 운동기구의 사용현황 표시
-3. 라온센터 운동기구 사용량 측정 및 나의 랭킹확인 기능
+### 🔽 주요기능
+![최종_page-0007](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/039178b0-bb91-498f-91c2-86c9e20abe16) </br></br>
+1️⃣ 라온센터에 대한 기본적인 정보 확인 </br>
+2️⃣ 라온센터 운동기구의 사용현황 표시 </br>
+3️⃣ 라온센터 운동기구 사용량 측정 및 나의 랭킹확인 기능 </br>
+4️⃣ 
+5️⃣ 
 
 ### software flow
 <img src="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-11/assets/75514808/c9561e92-b705-4a3f-b0b2-de8cff8b7319" width="500">
